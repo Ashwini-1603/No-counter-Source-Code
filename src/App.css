@@ -33,7 +33,7 @@
 .add{
   display: flex;
   flex-wrap: wrap !important;
-/*   overflow: scroll; */
+  overflow: scroll; 
   height: 500px;
 
   text-align: center;
